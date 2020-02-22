@@ -41,6 +41,7 @@ Proyecto realizado con Python 3 utilizando diferentes librerías, a destacar Pan
 Los comentarios del proyecto se han ido anotando junto con el código.
 
 Esta versión presentada es la tercera, se han hecho bastantes pruebas y se ha trabajado duro para poder ralizar un buen trabajo, pero al final ha salido menos de lo que esperaba. Pensaba que llegaría al final y conseguiría unos resultados mejores, pero me he quedado a las puertas de poder realizar una Confusión Matrix en el apartado 1.3 y poder mejorar los demás apartados de la práctica.
+
 Cada apartado de la práctica se ha realizado en un notebook distinto:
 
 Apartado 1 y subapartados 1.1 - 1.2 - 1.3  NLPSearchPTv01.ipynb
