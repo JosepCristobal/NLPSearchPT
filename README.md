@@ -19,11 +19,11 @@ Los ficheros utilizados son:
 
 1.   Machine Learning vs Deep Learning (Hay que implementar el pipeline visto en clase entero)
 
-    1.1. Implementación de un modelo de Sentiment Analysis con algún algoritmo de Machine Learning Clásico.
+      1.1. Implementación de un modelo de Sentiment Analysis con algún algoritmo de Machine Learning Clásico.
     
-    1.2. Implementación de un modelo de Sentiment Analysis con alguna arquitectura de Deep Learning.
+      1.2. Implementación de un modelo de Sentiment Analysis con alguna arquitectura de Deep Learning.
     
-    1.3. Breve Comparación de resultados. Confusion Matrix.
+      1.3. Breve Comparación de resultados. Confusion Matrix.
     
 2. Hacer Analysis de los tweets del segundo dataset. Que temas aparecen? Como se representan estos temas? De que hablan unos y otros?
 
